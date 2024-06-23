@@ -1,7 +1,7 @@
 # Sidely AI Form App Frontend in Visual Basic
 
 ## Overview
-Sidely AI Frontend is a user interface application developed in Visual Basic. It provides a streamlined interface for interacting with AI-powered backend services. The application allows users to perform tasks related to managing and interacting with AI models, such as creating new submissions, viewing existing submissions, deleting submissions, and controlling a stopwatch feature.
+Sidely AI Frontend is a user interface application developed in Visual Basic. It provides a streamlined interface for interacting with Form backend services. The application allows users to perform tasks related to managing , such as creating new submissions, viewing existing submissions, deleting submissions, and controlling a stopwatch feature.
 
 ## Key Features
 
